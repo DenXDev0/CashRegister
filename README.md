@@ -24,7 +24,7 @@ This project mimics the core functionality of a point-of-sale (POS) register:
 
 ## 📁 Project Structure
 ```
-cash-register/
+CashRegister/
 ├── index.html # Main HTML structure
 ├── styles.css # CSS for layout and styling (optional)
 ├── script.js # JavaScript for logic and dynamic UI
